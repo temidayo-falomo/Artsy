@@ -8,7 +8,7 @@ allow {
   {"name": input.name,"groupname": input.groupname} = data.geostore.usergroup[_]
   input.request_path = ["v1", "collection"]
   input.groupname = "youtubemusic"
-  input.groupname = "DELETE"
+  input.request_method = "DELETE"
   input.groupname = "EDITOR_DPAU"
 }
 
