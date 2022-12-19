@@ -25,6 +25,6 @@ allow {
   input.request_path = ["v2", "chance"]
   input.company = "goBeyond"
   input.request_method = "DELETE"
-  input.groupname = "EDITOR_DPAU"
+  input.groupname = "ambiente-AsparmRaccoltaFarmaci-EDIT"
 }
 
