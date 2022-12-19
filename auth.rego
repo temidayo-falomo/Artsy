@@ -9,7 +9,7 @@ allow {
   input.request_path = ["v1", "collection"]
   input.company = "youtubemusic"
   input.request_method = "DELETE"
-  input.groupname = "GEOCITY_ADMINS"
+  input.groupname = "EDITOR_DPAU"
 }
 
 allow {
