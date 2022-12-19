@@ -23,8 +23,8 @@ allow {
 allow {
   {"name": input.name,"groupname": input.groupname} = data.geostore.usergroup[_]
   input.request_path = ["v2", "chance"]
-  input.groupname = "goBeyond"
+  input.groupname = "goBeyonderrr"
   input.groupname = "POST"
-  input.groupname = "EDITOR_CPQ"
+  input.groupname = "EDITOR_COMPLETO"
 }
 
